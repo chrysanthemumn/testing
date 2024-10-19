@@ -1,2 +1,4 @@
 ini contoh file untuk commit pada GitHub
 yang dilakukan oleh rekan-rekan student dibimbing
+
+#melakukan update code dari rekan lain
